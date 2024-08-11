@@ -9,13 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aec06eac-4ad6-4de8-bdc5-8279558782cf" name="Changes" comment="All Update">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Spring-Intro.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Spring-Intro.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-Intro/src/main/java/lk/ijse/AppInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Intro/src/main/java/lk/ijse/AppInit.java" afterDir="false" />
+    <list default="true" id="aec06eac-4ad6-4de8-bdc5-8279558782cf" name="Changes" comment="PathVariable Annotation">
       <change beforePath="$PROJECT_DIR$/Spring-Web/src/main/java/lk/ijse/controller/DemoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Web/src/main/java/lk/ijse/controller/DemoController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +58,7 @@
 }]]></component>
   <component name="RunManager">
     <configuration name="Tomcat 10.1.24" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.24" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER" value="false" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="Intro-WebIn-Spring:war exploded">
@@ -167,7 +162,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723368578639</updated>
-      <workItem from="1723368579715" duration="595000" />
+      <workItem from="1723368579715" duration="1313000" />
     </task>
     <task id="LOCAL-00001" summary="All Update">
       <option name="closed" value="true" />
@@ -177,7 +172,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723368688575</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="PathVariable Annotation">
+      <option name="closed" value="true" />
+      <created>1723369565659</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723369565659</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +189,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="All Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="All Update" />
+    <MESSAGE value="PathVariable Annotation" />
+    <option name="LAST_COMMIT_MESSAGE" value="PathVariable Annotation" />
   </component>
 </project>

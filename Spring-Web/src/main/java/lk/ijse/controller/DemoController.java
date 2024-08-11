@@ -15,4 +15,13 @@ public class DemoController{
 
     }
 
+    @GetMapping(value = "/patternRegex/{id:C\\d{3}}")
+    public String pathvariableWithRegex(@PathVariable("id") String id) {
+        return "DemoController run perfectly with :"+id;
+    }
+    @GetMapping(params = "text-all")
+    public String param(){
+        return "All are tested";
+    }
+
 }
